@@ -1,2 +1,4 @@
 # WC3CrashAnalyzer
-Parse info from crash.txt and print it in readable format.
+Выводит информацию о краше из crash.txt 
+На данный момент поддерживает только Game.dll краши.
+(Но может помочь и в других случаях)
